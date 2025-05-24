@@ -1,0 +1,5 @@
+install opencv-python pyzbar
+pip install streamlit
+pip install xlrd
+
+pip install cryptography #for certain MySQL authentication methods like sha256_password or caching_sha2_password
